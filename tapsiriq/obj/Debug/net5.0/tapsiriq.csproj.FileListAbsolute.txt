@@ -1,0 +1,16 @@
+C:\Users\Rashadahe\source\repos\tapsiriq\tapsiriq\bin\Debug\net5.0\tapsiriq.exe
+C:\Users\Rashadahe\source\repos\tapsiriq\tapsiriq\bin\Debug\net5.0\tapsiriq.deps.json
+C:\Users\Rashadahe\source\repos\tapsiriq\tapsiriq\bin\Debug\net5.0\tapsiriq.runtimeconfig.json
+C:\Users\Rashadahe\source\repos\tapsiriq\tapsiriq\bin\Debug\net5.0\tapsiriq.runtimeconfig.dev.json
+C:\Users\Rashadahe\source\repos\tapsiriq\tapsiriq\bin\Debug\net5.0\tapsiriq.dll
+C:\Users\Rashadahe\source\repos\tapsiriq\tapsiriq\bin\Debug\net5.0\ref\tapsiriq.dll
+C:\Users\Rashadahe\source\repos\tapsiriq\tapsiriq\bin\Debug\net5.0\tapsiriq.pdb
+C:\Users\Rashadahe\source\repos\tapsiriq\tapsiriq\obj\Debug\net5.0\tapsiriq.csproj.AssemblyReference.cache
+C:\Users\Rashadahe\source\repos\tapsiriq\tapsiriq\obj\Debug\net5.0\tapsiriq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashadahe\source\repos\tapsiriq\tapsiriq\obj\Debug\net5.0\tapsiriq.AssemblyInfoInputs.cache
+C:\Users\Rashadahe\source\repos\tapsiriq\tapsiriq\obj\Debug\net5.0\tapsiriq.AssemblyInfo.cs
+C:\Users\Rashadahe\source\repos\tapsiriq\tapsiriq\obj\Debug\net5.0\tapsiriq.csproj.CoreCompileInputs.cache
+C:\Users\Rashadahe\source\repos\tapsiriq\tapsiriq\obj\Debug\net5.0\tapsiriq.dll
+C:\Users\Rashadahe\source\repos\tapsiriq\tapsiriq\obj\Debug\net5.0\ref\tapsiriq.dll
+C:\Users\Rashadahe\source\repos\tapsiriq\tapsiriq\obj\Debug\net5.0\tapsiriq.pdb
+C:\Users\Rashadahe\source\repos\tapsiriq\tapsiriq\obj\Debug\net5.0\tapsiriq.genruntimeconfig.cache
