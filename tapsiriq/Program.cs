@@ -18,8 +18,8 @@
 //}
 
 int num = 123;
-int rem=num%10;
-int min = rem;
+int rem;
+int min = num%10;
 
 while (num > 0)
 {
